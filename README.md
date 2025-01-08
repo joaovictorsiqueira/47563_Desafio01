@@ -1,2 +1,4 @@
 # 47563_Desafio01
-Desafio de criação de uma Landing Page de arquitetura
+
+**Link do site:** https://desafio-01-arquitetura.netlify.app/
+**Link da planiha com as informaçoes sincronizadas:** https://docs.google.com/spreadsheets/d/1RZ_0cAv-s-f9XtZmIGfXi5uUNpvk7Qfp5ms22eJM1bU/edit?gid=0#gid=0
